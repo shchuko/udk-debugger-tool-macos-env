@@ -1,0 +1,8 @@
+# VM files
+*.qcow2
+*.img
+*.iso
+
+# macOS files
+.DS_Store
+
